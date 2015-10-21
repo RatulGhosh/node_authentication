@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/RatulGhosh/node_authentication/master/icon.jpeg" width="40" /> Node Authentication
+# <img src="https://raw.githubusercontent.com/RatulGhosh/node_authentication/master/icon.jpeg" width="80" /> Node Authentication
 
 A full Login/Registration system using MongoDB as database , Mongoose ORM , Passport User Authentication and Bcrypt for encrypting the password.
 
