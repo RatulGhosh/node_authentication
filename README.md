@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/RatulGhosh/node_authentication/master/icon.jpeg" width="40" /> Node Authentication
 
-An open source group chat application built using  Node.js , MongoDB as database , Mongoose ORM , Passport User Authentication and Bcrypt for encrypting the password 
+A full Login/Registration system using MongoDB as database , Mongoose ORM , Passport User Authentication and Bcrypt for encrypting the password.
 
 # <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat" width="80" />
 
