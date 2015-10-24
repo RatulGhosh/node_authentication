@@ -28,7 +28,7 @@ node app.js or npm start
 
 ### License
 
-Note that chat_room is distributed under the [MIT License](http://opensource.org/licenses/MIT).
+Note that Node Authentication is distributed under the [MIT License](http://opensource.org/licenses/MIT).
 
 
 
