@@ -13,7 +13,7 @@ Requirements:
 * [MongoDB](https://www.mongodb.org)
 * [Bcrypt](https://www.npmjs.com/package/bcrypt)
 
-Note : Installing Bcrypt is quite involved. It requires python,Visiual Studio and Visual C++ Redistributables (for windows).Instead you can use bcryptjs, they works the same way, only bcrypt is a C++ module for node that works faster and take less resource.
+Note : Installing Bcrypt is quite involved. It requires python,Visual Studio and Visual C++ Redistributables (for windows).Instead you can use bcryptjs, they works the same way, only bcrypt is a C++ module for node that works faster and take less resource.
 
 
 Clone and start the app:
